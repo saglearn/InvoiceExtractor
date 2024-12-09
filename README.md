@@ -15,4 +15,5 @@ InvoiceExtrator
 
 1. **conda create -p venv python=3.10 -y** # use python > 3.9 supported gemini only > 3.9
 2. **conda activate venv/** # activate specific env
-3.
+3. Run the project ->  **streamlit run app.py
+**
