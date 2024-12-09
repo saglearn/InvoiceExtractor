@@ -13,6 +13,6 @@ InvoiceExtrator
 >       #PyPDF2 #load pdf for search or read pdf
 >       #chormadb #vector embedding
 
-1. **conda create -p venv python=3.10 -y** # use python > 3.9 supported gemini only > 3.9
+1. **conda create -p venv python=3.10 -y** # Use this command to **create env** # use python > 3.9 supported gemini only > 3.9 
 2. **conda activate venv/** # activate specific env
 3. Run the project ->  **streamlit run app.py**
