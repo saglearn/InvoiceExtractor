@@ -1,1 +1,6 @@
-
+streamlit
+google-generativeai
+python-dotenv
+landchain
+PyPDF2 #load pdf for search or read pdf
+chormadb #vector embedding
